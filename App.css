@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+    background-color: burlywood;
+}
+
+button{
+    padding: 20px;
+    background-color: #0064AD;
+    border-radius: 10px;
+    width: 20%;
+    border-color: #0064AD;
+}
+
